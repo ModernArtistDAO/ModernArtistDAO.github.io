@@ -6,7 +6,7 @@
 
 <br />
 
-## PoolTogether v3 - Reference Frontend.
+## Modern Artist DAO - Reference Frontend. <br> Powered by Pool Together v3
 
 The newest UI for communicating with the (unreleased) v3 PoolTogether protocol. 
 

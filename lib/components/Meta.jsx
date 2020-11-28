@@ -1,11 +1,11 @@
 import Head from 'next/head'
 
 export const Meta = ({ title }) => {
-  const defaultTitle = 'PoolTogether - V3 Reference Pool Frontend'
+  const defaultTitle = 'Modern Artist DAO - Powered by Pool Together v3'
   title = title ? `${title} - ${defaultTitle}` : defaultTitle
 
   const url = `https://reference-app.pooltogether.com`
-  const description = `Deposit and withdraw to V3 Pools`
+  const description = `Deposit and withdraw to V3 Pools and show your support for the arts`
   const keywords = 'ethereum'
   const twitterHandle = '@PoolTogether_'
 
@@ -21,7 +21,7 @@ export const Meta = ({ title }) => {
         
         <link rel='stylesheet' href='/animate.css' />
 
-        <meta name='theme-color' content='#1a083a' />
+        <meta name='theme-color' content='#d1e231' />
         <meta name='description' content={description} />
         <meta name='keywords' content={keywords} />
         <meta name='author' content='PoolTogether LLC' />
