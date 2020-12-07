@@ -10,4 +10,4 @@
 
 UI for communicating with the M.A.D. pool. 
 
-A demo of this app will be live soon.... few days[here](https://reference-app.modernartistdao.com).
+A demo of this app will be live soon.... few days [here](https://reference-app.modernartistdao.com).
